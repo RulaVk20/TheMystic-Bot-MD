@@ -5,7 +5,7 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
+  ['972557200791', '👑 Mystic - Creador 👑', true],
   ['34625716198'],
 ] // Cambia los numeros que quieras
 global.suittag = ['625716198'] 
